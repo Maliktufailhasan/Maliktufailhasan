@@ -5,7 +5,7 @@
 - 📫 How to reach me @foxbeetlecoding@gmail.com
 - 😄 Pronouns: TUFAIL
 - ⚡ Fun fact: ...
-
+[![Squarespace](https://img.shields.io/badge/Squarespace-000000?logo=squarespace&logoColor=fff)](#)
 
 
 <!---
