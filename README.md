@@ -17,6 +17,8 @@
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2ec5b0fa-1a17-4b14-ae5b-1b125a163186" />
+
 
 
 <!---
